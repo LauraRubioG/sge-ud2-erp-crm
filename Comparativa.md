@@ -139,4 +139,36 @@ Teniendo en cuenta de que queremos solucionar la desconexión cantable, las rotu
 - **Microsoft Dynamics 365 (5):** Sobresaliente en la gestión de cadenas de suministro y trazabilidad industrial.
 
 4. **Soporte técnico y garantías (SLA) (Peso:15%)**
-- 
+- **Odoo Community (1):** La puntuación mínima porque no existe ningún contrato de nivel de servicio (SLA) no soporte oficial. Si el sistema colapsa de madrugada, el obrador se paraliza.
+- **Odoo Enterprise (4):** Incluye soporte técnico directo del fabricante y asistencia en la resolución de bugs, cubriendo la necesidad de fiabilidad de la empresa.
+- **Microsoft Dynamics 365 (5):** Respaldo total de Microsoft con niveles de servicio empresariales garantizados al 99,9%.
+
+5. **Curva de aprendizaje y usabilidad (Peso:10%)**
+- **Odoo Community (4) y Odoo Enterprise (4):** Ambas comparten una interfaz web moderna, limpia y muy intuitiva. Esto es vital para que los panaderos y repartidores adopten el sistema rápidamente son frustaciones.
+- **Microsoft Dynamics 365 (3):** Interfaz más densa y orientada a entornos corporativos, lo que requería más horas de formación para el personal.
+
+6. **Independencia del proveesor - Evitar Lock-in (peso:10%)**
+- **Odoo Community (5):** Control absoluto de los datos y del código. La panadería puede alojarlo en el servidor que desee y cambiar de proveedor informmático cuando quiera.
+- **Oddoo Enterprise (3):** Eres dueño de tus datos, pero dependes de Osoo S.A. para las actualizaciones y los módulos cerrados (Open-Core).
+- **Microsoft Dynamics 365 (1):** Dependencua total del ecosistema de Microsoft. Extraer los datos históricos para migrar a otra plataforma en el futuro es un proceso arduo y costoso.
+
+## Cálculo del Total Ponderado
+La fórmula aplicada es (Puntuación * Peso) / 100
+
+- **Odoo Community:** (525) + (420) + (320) + (115) + (410) + (510) = 125 + 80 + 60 + 15 + 40 + 50 = 370 / 100 = 3.70
+- **Odoo Enterprise:** (325) + (520) + (520) + (415) + (410) + (310) = 75 + 100 + 100 + 60 + 40 + 30 = 405 / 100 = 4.05
+- **Microsoft Dynamics 365:** (125) + (420) + (520) + (515) + (310) + (110) = 25 + 80 + 100 + 75 + 30 + 10 = 320 / 100 = 3.20
+
+## Recomendación Final y Análisis de Riesgos
+Basado en la matriz de decisión, la solución ganadora técnica y estratégicamente para "El Horno de Ana" es Odoo Enterprise (4.05 puntos).
+
+Aunque la versión Community resulta más económica de primeras, el volumen de 8 supermercados fijos y la necesidad de integrar la producción de un obrador con un portal B2B exigen herramientas que la versión gratuita no tiene de forma nativa. Odoo Enterprise otorga la trazabilidad de stock y los módulos web necesarios sin alcanzar los costes prohibitivos de  Dynamics 365
+
+**Plan de mitigación de riesgos asociados a la implantación**
+- **Coste económico:** Pagar la licencia anual puede reducir los beneficios iniciales. La solución sería el tiempo que el personal se ahorra al no tener que atender pedidos por teléfono email compensará rápidamente el gasto del programa.
+- **Dependencia de Odoo:** Riesgo de que encarezca mucho las licencias en el futuro. La solución sería al tener una base de código abierto, siempre existe la "salida de emergencia" de volver a la versión gratuita y pagar a un programador por libre.
+- **Soporte técnico nocturno:** Que el sistema falle de madrugada, justo cuando el obrador tiene su pico de trabajo. La solución sería contratar a un servicio informático local que garantica asistencia de urgencia las 24 horas para no depender solo del soporte oficial.
+- **Migración de datos:** Perder el historial de los supermercados al pasar de los apuntes a mano al ordenador. La solución sería pasar a limpo toda la información en hojas de cálculo sencillas y ordenadas antes de volcarla definitivamente en el nuevo programa.
+
+
+Este último apartado he usado un poco de IA para entener bien el concepto que pedía y como hacerlo.
