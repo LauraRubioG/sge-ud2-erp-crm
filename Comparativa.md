@@ -170,5 +170,6 @@ Aunque la versión Community resulta más económica de primeras, el volumen de 
 - **Soporte técnico nocturno:** Que el sistema falle de madrugada, justo cuando el obrador tiene su pico de trabajo. La solución sería contratar a un servicio informático local que garantica asistencia de urgencia las 24 horas para no depender solo del soporte oficial.
 - **Migración de datos:** Perder el historial de los supermercados al pasar de los apuntes a mano al ordenador. La solución sería pasar a limpo toda la información en hojas de cálculo sencillas y ordenadas antes de volcarla definitivamente en el nuevo programa.
 
-
 Este último apartado he usado un poco de IA para entener bien el concepto que pedía y como hacerlo.
+
+Laura Rubio Gallardo
