@@ -93,3 +93,24 @@ En esta sección vamos a cer las especialidades técnicas exhautivas pedidas en 
 - **Modalidad:** es 100% Nube Fuente: [modalidad](https://www.salesforce.com/es/crm/) Fecha: 27/09/2026.
 - **Módulos principales:** Ventas, atencion al cliente, marketing cloud, automatizacion y comercio. Fuente: [modulos principales](https://www.seidor.com/es-es/blog/salesforce-modulos) Fecha: 27/09/2026.
 - **Requisitos:** asl ser SaaS no requiero hardware de servidor solo un navegador web moderno como Chrome, edge, safari o firefox por ejemplo, y conexion a internet. Fuente: [requisitos](https://help.salesforce.com/s/articleView?id=xcloud.technical_requirements.htm&type=5) Fecha: 27/09/2026.
+
+
+# SECCIÓN 4: FE DE ERRATAS DEL TEMA
+En esta sección vamos a analizar los errores y erratas que hemos encontrado en la presentación del tema. Hemos encontrado varios errores que pueden ser que estén desactualizados o que son incoherentes con la realidad actual, vamos a ver dos de ellas.
+
+##**SugarCRM:**
+- En la diapositiva 7 que se titula "Soluciones CRM: Libres y Propietarias" se afirma textualemte que SuiteCRM está *"Desarrollado por la comunidad SugarCRM"*. 
+- Esto ya es no correcto, SugarCRM es un software comercial de gestión de relaciones con los clientes (CRM), que ayuda a las empresas a autorizar las ventas, el marketing y el servicio al cliente. En otras palabras, es una plataforma para centralizar datos de clientes, registrar interacción y medir el rendimiento comercial.
+- Es cierto que SuiteCRM se creó en 2013 como una bifurzación directa de SugarCRM, con la antigua versión gratuita y de código abierto que ofrecía en aquel entonces.
+- Debído a que SugarCRM anunción que dejaba de dar soporte a versión Community Edition en 2013, se produjo un vacío en el mercado, se necesitaba de forma imprescindible una nueva herramienta capaz de llegar ese hueco. Fue entonces cuando la empresa SalesAgility creó SuitCRM, que es una versión de SugarCRM mejorada de las prestaciones del software de SugarCRM.
+- Por lo que SuiteCRM no fue desarrollado de SugarCRM sino que debído al cierre de la versión de código abierta de esta, la empresa SalesAgility crea SuiteCRM para sustituir y mejorarla. A día de hoy SuiteCRM es un proyecto independiente, gratuito y código avierto mucho más avanzado que la versión de SugarCRM.
+
+##**Zoho CRM**
+- En la diapositiva 9, en la sección *"CRM Propietarios"*, podemos encontrar uno de los ejemplos, el Zoho CRM cita textualmente *"Más de 15 años de experiencia"*. Pero esto es erroneo.
+- Zoho Corporation nació en 1996 bajo el nombre de AdventNet Inc, hasta que pasó a llamarse Zoho Corporation. Hasta el año 2003 el negocio de Zoho solo se centraba en los clientes grandes empresariales. Pero en 2004 se aventuró en el terreno del código abierto por un corto periodo de tiempo. Al ser muy bien recibido en 2006 se lanza oficialmente Zoho CRM como parte de la suit de aplicaciones web para ayudar a las pequeñas y medianas empresas a gestionar sus ventas y clientes.
+- Por lo que el dado citado antes esta desactualizado, ya que, Zoho CRM tiene mas de 21 años de trayectoria en el sector.
+
+
+## Bibliografía
+- [SuiteCRM y SugarCRM](https://www.irontec.com/suitecrm-una-herramienta-open-source-para-la-gestion-comercial-de-tu-empresa/)
+- [Zoho CRM](https://sagitaz.com/historia-zoho/)
