@@ -1,0 +1,7 @@
+Criterio;Peso(%);Odoo Community;Odoo Enterprise;Microsoft Dynamics 365
+Coste de adquisicion y licencias (TCO inicial);25;5;3;1
+Desarrollo e integracion de portal B2B web;20;4;5;4
+Control de inventario y produccion (Trazabilidad);20;3;5;5
+Soporte tecnico y garantias (SLA);15;1;4;5
+Curva de aprendizaje y usabilidad;10;4;4;3
+Independencia del proveedor (Evitar Lock-in);10;5;3;1

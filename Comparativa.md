@@ -114,3 +114,29 @@ En esta sección vamos a analizar los errores y erratas que hemos encontrado en 
 ## Bibliografía
 - [SuiteCRM y SugarCRM](https://www.irontec.com/suitecrm-una-herramienta-open-source-para-la-gestion-comercial-de-tu-empresa/)
 - [Zoho CRM](https://sagitaz.com/historia-zoho/)
+
+
+
+# SECCIÓN 5: MATRIZ DE DECISIÓN Y RECOMENDACIÓN ("EL HORNO DE ANA")
+
+Teniendo en cuenta de que queremos solucionar la desconexión cantable, las roturas de stock y la necesidad de un portal de pedidos para los 8 supermercados, se han analizado tres posibles soluciones: Odoo Community, Software libre/gratuito, Odoo Enterprise, OpenCore/Pago por licencia y Microsoft Dynamics 365, Software Propietario Saas.
+
+## Justificación de las puntuaciones (1 al 5)
+
+1. **Costa de adquisición y licencias (Peso:25%)**
+- **Odoo Community (5):** Al ser un código abierto, no requiere de pago de licencias por usuario el coste inicial es imbatible. La inversion que haría Ana sería absolutamente a la implantación de esta.
+- **Odoo Enterprise (3):** Requiere un pago de suscripción anual, lo que eleva el coste para 15 empleados, auqneu sigue siendo asumible para una pyme en cremiento.
+- **Microsoft Dynamics 365 (1):** Sus licencias empresariales son muy caras y desproporcionadas para el margen de beneficio de una panadería local.
+
+2. **Desarrollo e integración de portal B2B web (Peso:20%)**
+- **Odoo Community (4):** Su licencia LGL permite desarrollar un portal web de pedidos a medida mediante código sin problemas legales de teenr que liberar ese código, pero requiere programación mensual.
+- **Odoo Enterprise (5):** Cuenta con el mósulo de eCommerce B2B nativo y avanzado; la integración con el inventario es inmediata y sin necesidad de desarrollos complejos a medida.
+- **Microsoft Dynamics 365 (4):** Tiene capacidad de integración web extraordinarias mediante APIs, pero requiere de personal técnico alteramente cualificado para configurarlo.
+
+3. **Control de inventario y producción / trazabilidad (Peso:20%)**
+- **Odoo Community (3):** Ofrecce gestión de stock básica. Sin embarco, para entornos de fabricación, la versión comunitaria tiene limitaciones en el enrutamiento avanzado.
+- **Odoo Enterprice (5):** Incluye los módulos avanzados de Fabricación nativos, lo que garantiza cuadrar exactamente la materia prima utilizada en el obrador con el producto final y la contabilidad.
+- **Microsoft Dynamics 365 (5):** Sobresaliente en la gestión de cadenas de suministro y trazabilidad industrial.
+
+4. **Soporte técnico y garantías (SLA) (Peso:15%)**
+- 
